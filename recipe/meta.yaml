@@ -33,6 +33,7 @@ requirements:
     - numpy
     - scikit-build-core >=1.0
     - pip
+    - setuptools_scm >=9
   run:
     - python
 
